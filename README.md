@@ -79,5 +79,5 @@ This project is licensed under the MIT License.
 
 ## 🌐 **Connect with Us**
 
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 🧑‍💻 [GitHub](https://github.com/yourusername)
+- 🐦 [Twitter](https://twitter.com/iamnotATTWiter)
+- 🧑‍💻 [GitHub](https://github.com/muhammadyaqoobmuet)
