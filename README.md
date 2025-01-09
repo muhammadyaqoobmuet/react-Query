@@ -1,4 +1,4 @@
-# ⚡ **ReactQuery**
+# ⚡ **ReactQuery Basics 101**
 
 _Effortlessly manage server state with the power of React Query!_
 
